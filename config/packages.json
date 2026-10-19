@@ -1,0 +1,23 @@
+{
+  "General": [
+    {"id":"7zip.7zip","name":"7-Zip"},
+    {"id":"Google.Chrome","name":"Google Chrome"},
+    {"id":"Microsoft.VisualStudioCode","name":"Visual Studio Code"},
+    {"id":"Microsoft.PowerShell","name":"PowerShell 7"},
+    {"id":"Git.Git","name":"Git"},
+    {"id":"VideoLAN.VLC","name":"VLC"}
+  ],
+  "Development": [
+    {"id":"EclipseAdoptium.Temurin.17.JDK","name":"Temurin JDK 17"},
+    {"id":"JetBrains.IntelliJIDEA.Ultimate","name":"IntelliJ IDEA Ultimate"},
+    {"id":"OpenJS.NodeJS.LTS","name":"Node.js LTS"},
+    {"id":"Docker.DockerDesktop","name":"Docker Desktop"},
+    {"id":"Microsoft.AzureDataStudio","name":"Azure Data Studio (optional)","enabled":false}
+  ],
+  "AI": [
+    {"id":"Ollama.Ollama","name":"Ollama"}
+  ],
+  "Audio": [
+    {"id":"Steinberg.SteinbergDownloadAssistant","name":"Steinberg Download Assistant","enabled":false}
+  ]
+}

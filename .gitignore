@@ -1,0 +1,23 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# PowerShell logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.bak
+*.temp
+
+# Local configuration and secrets
+.env
+.env.*
+config/settings.local.json
+config/secrets.json
+
+# OS-generated files
+Thumbs.db
+Desktop.ini
+.DS_Store

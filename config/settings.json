@@ -1,0 +1,11 @@
+{
+  "Paths": {
+    "ArchiveDrive": "E:",
+    "ProjectsDrive": "C:",
+    "AudioLibraryDrive": "D:",
+    "Folders": ["E:\\Archive", "E:\\Downloads", "E:\\Documents", "C:\\Projects", "D:\\VST-Libraries", "D:\\Cubase-Projects"]
+  },
+  "EnableWSL": false,
+  "DownloadOllamaModel": false,
+  "OllamaModel": "qwen3:8b"
+}
